@@ -35,6 +35,10 @@ Pipo Assistant is a voice-enabled virtual assistant built using Python, speech r
 
 https://github.com/shreya6s/PIPO-A-VIRTUAL-ASSISTANT/assets/120666315/a7b2ef5a-4f4f-483c-9bb5-5a6c6f3b7fb6
 
+
+https://github.com/shreya6s/PIPO-A-VIRTUAL-ASSISTANT/assets/120666315/b3c9e35a-5e68-4cae-a579-016ea65b6341
+
+
 <img width="680" alt="pipo3" src="https://github.com/shreya6s/PIPO-A-VIRTUAL-ASSISTANT/assets/120666315/7ba51c63-5796-414f-81b9-2fd08a1f6d97">
 
 ## Contributions
